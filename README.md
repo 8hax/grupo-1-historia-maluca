@@ -1,3 +1,3 @@
 # grupo-1-historia-maluca
 
-Certo dia, em uma tarde calorosa...
+Certo dia, em uma tarde calorosa, Matheus estava andando com seu camelo em uma incursão pelas piramides do Egito. Como um bom historiador que é, estava fascinado em finalmente poder conhecer o interior dos famosos monumentos, pertecentes a uma das mais importantes civilizações da humanidade. Aconteceu que, no meio da espedição, uma forte tempesta de areia atingiu Matheus, fazendo-o se perder do grupo, e sem conseguir ver nada, ele caiu do camelo em uma areia que o sugou para baixo. Quando acordou, estava dentro do que parecia ser um santuário egipcio antigo.
