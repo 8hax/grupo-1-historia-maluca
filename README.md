@@ -1,3 +1,3 @@
 # grupo-1-historia-maluca
 
-Certo dia, em uma tarde calorosa, Sally, uma canguru programadora que passava horas debugando códigos no seu laboratório, recebeu uma mensagem anônima no terminal com apenas uma sequência em binário. Intrigada com o padrão incomum, ela rapidamente escreveu um script para decodificar o texto e rastrear a origem daquele sinal misterioso.
+Certo dia, em uma tarde calorosa...
