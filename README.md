@@ -1,3 +1,3 @@
 # grupo-1-historia-maluca
 
-Certo dia, em uma tarde calorosa...
+Certo dia, em uma tarde calorosa, Sally, uma canguru que vivia tranquila no interior da Austrália, sentiu algo vibrando dentro da sua bolsa. Ao enfiar a pata lá dentro, encontrou uma bússola antiga que nunca tinha visto, cuja agulha não apontava para o norte: girava sem parar até travar na direção do deserto. Presa a ela havia um bilhete amassado, escrito com letra tremida: "Siga a agulha antes do pôr do sol. E, aconteça o que acontecer, não confie no ornitorrinco." Sally olhou para o horizonte, depois para o sol que já começava a baixar, e percebeu que aquela tarde estava longe de ser comum.
