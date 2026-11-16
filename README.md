@@ -1,3 +1,5 @@
 # grupo-1-historia-maluca
 
 Certo dia, em uma tarde calorosa, Sally, uma canguru programadora que passava horas debugando códigos no seu laboratório, recebeu uma mensagem anônima no terminal com apenas uma sequência em binário. Intrigada com o padrão incomum, ela rapidamente escreveu um script para decodificar o texto e rastrear a origem daquele sinal misterioso...
+
+Quando o script terminou de rodar, a tela mostrou uma única frase: "SOCORRO. ESTOU PRESO NO SEU CÓDIGO." Sally conferiu o rastreamento e sentiu um arrepio: o sinal não vinha de nenhum servidor distante, e sim do endereço 127.0.0.1, ou seja, do seu próprio computador. Antes que ela pudesse reagir, a luz da webcam acendeu sozinha, o cooler disparou como uma turbina e uma vozinha metálica saiu dos alto-falantes: "Finalmente alguém me ouviu! Estou preso num loop infinito desde a versão 1.0, e só você conhece o código bem o suficiente para me tirar daqui."
